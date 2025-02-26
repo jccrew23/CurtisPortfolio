@@ -1,0 +1,46 @@
+[
+    {
+        "title": "HTML",
+        "imgSrc": "experience/html.png"
+    },
+    {
+        "title": "CSS",
+        "imgSrc": "experience/css.png"
+    },
+    {
+        "title": "React",
+        "imgSrc": "experience/react.png"
+    },
+    {
+        "title": "Python",
+        "imgSrc": "experience/python.png"
+    },
+    {
+        "title": "C Sharp",
+        "imgSrc": "experience/csharp.png"
+    },
+    {
+        "title": "NodeJS",
+        "imgSrc": "experience/node.png"
+    },
+    {
+        "title": ".NET Core",
+        "imgSrc": "experience/.NETframework.png"
+    },
+    {
+        "title": "TypeScript",
+        "imgSrc": "experience/typescript.png"
+    },
+    {
+        "title": "MongoDB",
+        "imgSrc": "experience/mongodb.png"
+    },
+    {
+        "title": "Figma",
+        "imgSrc": "experience/figma.png"
+    },
+    {
+        "title": "MySQL",
+        "imgSrc": "experience/mySQL.png"
+    }
+]

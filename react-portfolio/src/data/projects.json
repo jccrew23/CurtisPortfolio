@@ -1,0 +1,26 @@
+[
+    {
+        "title": "All Cows Eat Grass App",
+        "imgSrc": "projects/aceg.png",
+        "description": "A web application that helps users learn the musical notes on a piano keyboard.",
+        "skills": ["JavaScript", "HTML", "CSS"],
+        "demo" : "https://youtu.be/LMlTnTF6uCA",
+        "source" : "https://github.com/jccrew23/allcowseatgrass"
+    },
+    {
+        "title": "Secure Authentication API",
+        "imgSrc": "projects/secureAuth.png",
+        "description": "A secure authentication API verifies user identities using encrypted credentials, token-based authentication, and robust access controls to prevent unauthorized access.",
+        "skills": ["NodeJS", "TypeScript", "MongoDB", "Express"],
+        "demo" : "https://youtu.be/TE94Zo8ykPQ",
+        "source" : "https://github.com/jccrew23/secure-auth"
+    },
+    {
+        "title": "Contacts",
+        "imgSrc": "projects/requests.png",
+        "description": "This is a project that helped to learn about Server creation, API requests, and CRUD operations.",
+        "skills": ["NodeJS", "JavaScript", "Express", "MongoDB"],
+        "demo" : "https://youtu.be/Ujk572xzwOc",
+        "source" : "https://github.com/jccrew23/HTTPRequests"
+    }
+]

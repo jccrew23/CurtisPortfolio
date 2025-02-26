@@ -1,0 +1,23 @@
+[
+    {
+        "schoolName" : "Brigham Young University Idaho",
+        "degree" : "Bachelor of Science",
+        "major" : "Software Development",
+        "completionDate" : "July 2025",
+        "logoSrc" : "experience/byui.png"
+    },
+    {
+        "schoolName" : "Brigham Young University Idaho",
+        "degree" : "Ceriftificate",
+        "major" : "Web and Computer Programming",
+        "completionDate" : "December 2024",
+        "logoSrc" : "experience/byui.png"
+    },
+    {
+        "schoolName" : "Virginia Western Community College",
+        "degree" : "Associate of Science",
+        "major" : "Science",
+        "completionDate" : "December 2023",
+        "logoSrc" : "experience/vwcc.png"
+    }
+]
